@@ -9,3 +9,5 @@
 <h1>🙏 Respect</h1>
 
 ### KiRist (https://www.github.com/KiRist-code)
+### Pulan (https://github.com/Plu457)
+### Penguin-God (https://github.com/Penguin-God)
