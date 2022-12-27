@@ -9,7 +9,7 @@
 
 <h1>🙏 Respect</h1>
 
-### Pulan (https://github.com/Plu457)
+### Dahyun Kim (https://github.com/Plu457)
 ### Penguin-God (https://github.com/Penguin-God)
 ### jangjo123 (https://github.com/jangjo123)
 ### KiRist (https://www.github.com/KiRist-code)
